@@ -1,0 +1,5 @@
+name: NordicRPG-FireSpells
+depend: [NordicRPG]
+version: 1.0.0
+author: Dartanman
+main: main.dartanman.firespells.Main

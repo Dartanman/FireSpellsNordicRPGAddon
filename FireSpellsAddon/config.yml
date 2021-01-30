@@ -1,0 +1,15 @@
+# FireSpells Addon for NordicRPG by Dartanman
+FireSpells:
+  Flames:
+    BurnTimeSeconds: 2
+    BaseCooldown: 30
+  PowerFlame:
+    Damage: 4
+    BurnTimeSeconds: 3
+    PlayerDamage: false
+    BaseCooldown: 60
+  FlameCloak:
+    CloakTimeSeconds: 12
+    BurnTimeSeconds: 8
+    BaseCooldown: 180
+    UseParticles: true
