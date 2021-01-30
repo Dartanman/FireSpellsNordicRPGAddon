@@ -1,0 +1,2 @@
+# FireSpellsNordicRPGAddon
+NordicRPG FireSpells Addon
